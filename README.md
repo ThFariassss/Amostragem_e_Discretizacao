@@ -1,4 +1,5 @@
-Alunos
+Alunos:
+
 Thiago Farias dos Santos
 
 Gustavo Henrique da Silva
