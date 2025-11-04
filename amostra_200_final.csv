@@ -1,0 +1,200 @@
+id,city,area,rooms,bathroom,parking spaces,floor,animal,furniture,hoa,rent amount,property tax,fire insurance,total,area_cat,total_cat_Muito_Baixo,total_cat_Baixo,total_cat_Medio,total_cat_Alto,total_cat_Muito_Alto
+1178,São Paulo,70,2,1,1,1,acept,not furnished,280,1000,138,13,1431,MÉDIO,True,False,False,False,False
+8338,São Paulo,40,1,1,1,9,not acept,not furnished,440,2800,100,36,3376,PEQUENO,False,False,True,False,False
+9885,São Paulo,70,2,1,1,14,acept,not furnished,576,2400,162,31,3169,MÉDIO,False,False,True,False,False
+9027,São Paulo,129,3,4,3,6,acept,furnished,1650,2500,434,32,4616,GRANDE,False,False,False,True,False
+6582,São Paulo,50,2,1,0,-,acept,not furnished,0,1200,42,19,1261,PEQUENO,True,False,False,False,False
+8856,São Paulo,178,3,4,4,18,acept,not furnished,2650,10000,125,127,12900,GRANDE,False,False,False,False,True
+5398,São Paulo,16,1,1,0,1,not acept,not furnished,0,850,30,11,891,PEQUENO,True,False,False,False,False
+1298,São Paulo,71,3,2,1,2,acept,not furnished,530,2500,130,32,3192,MÉDIO,False,False,True,False,False
+6572,São Paulo,40,1,1,0,8,not acept,furnished,685,1920,117,25,2747,PEQUENO,False,True,False,False,False
+6154,São Paulo,190,3,4,3,1,acept,not furnished,2100,5500,525,70,8195,GRANDE,False,False,False,False,True
+804,São Paulo,97,2,2,2,3,acept,not furnished,1400,2200,42,28,3670,MÉDIO,False,False,True,False,False
+9014,São Paulo,300,5,5,4,-,acept,furnished,0,6500,525,98,7123,GRANDE,False,False,False,True,False
+2866,São Paulo,60,2,1,0,-,acept,not furnished,0,1700,245,26,1971,MÉDIO,False,True,False,False,False
+5880,São Paulo,70,2,1,1,9,acept,not furnished,767,2707,0,11,3485,MÉDIO,False,False,True,False,False
+7177,São Paulo,350,4,3,4,-,acept,not furnished,1,7300,600,110,8011,GRANDE,False,False,False,False,True
+4285,São Paulo,45,1,1,0,2,not acept,not furnished,0,1400,69,18,1487,PEQUENO,True,False,False,False,False
+4678,São Paulo,200,3,1,2,-,acept,not furnished,0,3000,0,46,3046,GRANDE,False,False,True,False,False
+9691,São Paulo,60,2,1,1,5,acept,not furnished,662,1150,120,15,1947,MÉDIO,False,True,False,False,False
+8825,São Paulo,80,2,2,1,3,acept,not furnished,700,2200,0,28,2928,MÉDIO,False,False,True,False,False
+8946,São Paulo,210,4,4,3,9,acept,not furnished,2100,9100,667,116,11980,GRANDE,False,False,False,False,True
+7801,São Paulo,89,2,3,3,9,acept,furnished,1158,4300,244,55,5757,MÉDIO,False,False,False,True,False
+894,São Paulo,35,1,1,0,-,acept,not furnished,0,1100,30,14,1144,PEQUENO,True,False,False,False,False
+3094,São Paulo,280,3,4,2,-,acept,furnished,8000,8000,667,121,16790,GRANDE,False,False,False,False,True
+3497,São Paulo,36,1,1,0,10,acept,furnished,345,1600,30,21,1996,PEQUENO,False,True,False,False,False
+5649,São Paulo,169,4,4,4,9,acept,not furnished,1800,6450,1140,82,9472,GRANDE,False,False,False,False,True
+869,São Paulo,33,1,1,0,1,not acept,not furnished,250,1305,0,17,1572,PEQUENO,True,False,False,False,False
+6489,São Paulo,220,4,4,3,12,acept,not furnished,3600,5100,892,65,9657,GRANDE,False,False,False,False,True
+4247,São Paulo,87,3,2,3,3,acept,not furnished,914,1300,265,17,2496,MÉDIO,False,True,False,False,False
+9834,São Paulo,86,2,1,1,1,acept,not furnished,960,2372,0,10,3342,MÉDIO,False,False,True,False,False
+4367,São Paulo,280,3,3,5,-,acept,not furnished,0,3500,2,53,3555,GRANDE,False,False,True,False,False
+9684,São Paulo,299,3,3,3,1,acept,not furnished,2689,1942,316,25,4972,GRANDE,False,False,False,True,False
+1556,São Paulo,135,3,3,2,1,acept,furnished,1650,4250,584,54,6538,GRANDE,False,False,False,True,False
+7148,São Paulo,131,4,4,2,11,acept,not furnished,1400,4500,317,58,6275,GRANDE,False,False,False,True,False
+497,São Paulo,200,3,4,3,6,acept,furnished,1800,5058,1200,65,8123,GRANDE,False,False,False,False,True
+1641,São Paulo,210,3,4,4,11,acept,furnished,2000,15000,1000,191,18190,GRANDE,False,False,False,False,True
+374,São Paulo,46,1,1,1,8,not acept,furnished,900,7600,118,97,8715,PEQUENO,False,False,False,False,True
+9332,São Paulo,20,1,1,0,3,not acept,furnished,150,3142,67,40,3399,PEQUENO,False,False,True,False,False
+8223,São Paulo,500,4,4,4,-,acept,not furnished,3200,10200,1800,154,15350,GRANDE,False,False,False,False,True
+3416,São Paulo,423,4,5,7,28,acept,not furnished,5785,14000,2647,178,22610,GRANDE,False,False,False,False,True
+6162,São Paulo,40,1,1,1,14,not acept,not furnished,642,1700,20,22,2384,PEQUENO,False,True,False,False,False
+7740,São Paulo,105,3,2,3,4,acept,not furnished,1100,2530,428,33,4091,GRANDE,False,False,False,True,False
+9628,São Paulo,75,3,3,0,12,acept,not furnished,650,2660,10,34,3354,MÉDIO,False,False,True,False,False
+1170,São Paulo,180,3,2,2,-,acept,not furnished,0,3270,188,50,3508,GRANDE,False,False,True,False,False
+5903,São Paulo,179,3,2,2,5,acept,not furnished,2080,10000,443,127,12650,GRANDE,False,False,False,False,True
+191,São Paulo,280,4,4,1,1,acept,furnished,3000,8000,292,102,11390,GRANDE,False,False,False,False,True
+4465,São Paulo,78,2,2,2,12,acept,not furnished,450,2700,0,35,3185,MÉDIO,False,False,True,False,False
+8615,São Paulo,280,3,3,4,21,acept,not furnished,2498,4500,1116,58,8172,GRANDE,False,False,False,False,True
+2591,São Paulo,300,3,4,2,9,acept,furnished,2000,14000,1084,178,17260,GRANDE,False,False,False,False,True
+1709,São Paulo,53,1,1,0,2,not acept,not furnished,170,1680,68,22,1940,MÉDIO,False,True,False,False,False
+5790,São Paulo,60,2,1,1,2,acept,not furnished,0,2700,0,35,2735,MÉDIO,False,True,False,False,False
+7401,São Paulo,204,4,3,1,2,acept,furnished,1774,6000,0,77,7851,GRANDE,False,False,False,True,False
+881,São Paulo,32,1,1,0,18,acept,not furnished,330,1200,100,16,1646,PEQUENO,True,False,False,False,False
+8248,São Paulo,245,4,3,4,8,acept,not furnished,3450,6000,1667,77,11190,GRANDE,False,False,False,False,True
+5119,São Paulo,130,3,3,2,1,acept,furnished,1150,2350,255,30,3785,GRANDE,False,False,True,False,False
+9495,São Paulo,30,1,1,0,-,not acept,not furnished,0,1200,0,19,1219,PEQUENO,True,False,False,False,False
+3321,São Paulo,257,4,3,2,-,acept,not furnished,0,7000,1200,106,8306,GRANDE,False,False,False,False,True
+9258,São Paulo,22,1,1,1,14,not acept,not furnished,450,1900,84,25,2459,PEQUENO,False,True,False,False,False
+1828,São Paulo,210,4,4,3,5,acept,furnished,2800,5000,917,64,8781,GRANDE,False,False,False,False,True
+8510,São Paulo,126,4,3,4,-,acept,not furnished,0,3300,167,50,3517,GRANDE,False,False,True,False,False
+3408,São Paulo,40,1,1,1,12,acept,not furnished,651,1900,30,25,2606,PEQUENO,False,True,False,False,False
+3671,São Paulo,75,2,1,0,1,not acept,not furnished,0,1200,67,16,1283,MÉDIO,True,False,False,False,False
+245,São Paulo,40,1,1,0,-,acept,not furnished,0,1100,50,17,1167,PEQUENO,True,False,False,False,False
+2796,São Paulo,120,3,2,2,-,acept,not furnished,0,3110,111,47,3268,GRANDE,False,False,True,False,False
+5742,São Paulo,150,3,4,3,6,acept,not furnished,3500,10740,67,137,14440,GRANDE,False,False,False,False,True
+4882,São Paulo,42,1,1,1,5,acept,not furnished,330,2100,107,27,2564,PEQUENO,False,True,False,False,False
+1797,São Paulo,301,4,5,4,3,acept,furnished,4265,12500,1600,159,18520,GRANDE,False,False,False,False,True
+9035,São Paulo,250,5,2,6,-,acept,not furnished,0,9000,1417,136,10550,GRANDE,False,False,False,False,True
+655,São Paulo,70,1,1,0,4,acept,not furnished,760,2400,156,31,3347,MÉDIO,False,False,True,False,False
+7745,São Paulo,234,4,3,3,6,acept,not furnished,2688,1920,423,25,5056,GRANDE,False,False,False,True,False
+10447,São Paulo,190,3,3,3,6,acept,furnished,2800,4500,834,58,8192,GRANDE,False,False,False,False,True
+7512,São Paulo,136,4,3,1,3,acept,not furnished,1800,4200,312,54,6366,GRANDE,False,False,False,True,False
+10663,São Paulo,90,3,1,0,13,acept,not furnished,785,1600,0,21,2406,MÉDIO,False,True,False,False,False
+1103,São Paulo,330,5,4,4,-,acept,not furnished,0,4600,192,70,4862,GRANDE,False,False,False,True,False
+3981,São Paulo,135,2,1,0,2,not acept,not furnished,0,2000,5,26,2031,GRANDE,False,True,False,False,False
+7696,São Paulo,32,1,1,1,13,acept,furnished,500,2744,0,35,3279,PEQUENO,False,False,True,False,False
+5703,São Paulo,147,3,2,0,9,not acept,furnished,1500,4250,0,54,5804,GRANDE,False,False,False,True,False
+8128,São Paulo,142,3,4,3,13,acept,not furnished,1900,4600,3509,33,10040,GRANDE,False,False,False,False,True
+9146,São Paulo,240,4,4,3,4,acept,not furnished,8000,2000,2000,26,12030,GRANDE,False,False,False,False,True
+5391,São Paulo,134,3,3,1,4,acept,not furnished,1200,3500,200,45,4945,GRANDE,False,False,False,True,False
+1993,São Paulo,400,5,4,2,12,acept,not furnished,2675,2000,832,26,5533,GRANDE,False,False,False,True,False
+1861,São Paulo,80,2,2,1,2,acept,not furnished,400,1500,36,20,1956,MÉDIO,False,True,False,False,False
+7073,São Paulo,58,1,1,2,2,acept,not furnished,640,2000,0,26,2666,MÉDIO,False,True,False,False,False
+1307,São Paulo,40,1,1,0,-,not acept,not furnished,0,780,17,12,809,PEQUENO,True,False,False,False,False
+4115,São Paulo,40,1,1,0,-,not acept,not furnished,0,850,0,11,861,PEQUENO,True,False,False,False,False
+6222,São Paulo,540,4,5,5,13,acept,not furnished,3414,5100,2236,65,10820,GRANDE,False,False,False,False,True
+5352,São Paulo,30,1,1,0,5,acept,furnished,370,1830,0,24,2224,PEQUENO,False,True,False,False,False
+1072,São Paulo,390,4,4,5,8,not acept,furnished,8500,8600,3917,109,21130,GRANDE,False,False,False,False,True
+6335,São Paulo,73,3,2,1,12,acept,not furnished,923,2700,171,35,3829,MÉDIO,False,False,True,False,False
+6637,São Paulo,90,2,1,0,1,not acept,not furnished,500,2700,25,35,3260,MÉDIO,False,False,True,False,False
+2762,São Paulo,120,4,4,1,-,acept,not furnished,0,4500,67,68,4635,GRANDE,False,False,False,True,False
+4718,São Paulo,170,3,5,3,7,not acept,not furnished,2091,4500,951,19,7561,GRANDE,False,False,False,True,False
+914,São Paulo,117,3,3,2,-,acept,not furnished,0,2700,16,41,2757,GRANDE,False,True,False,False,False
+6568,São Paulo,40,1,1,0,22,acept,furnished,473,2300,39,30,2842,PEQUENO,False,False,True,False,False
+10371,São Paulo,96,2,2,2,4,acept,furnished,1100,6500,250,83,7933,MÉDIO,False,False,False,True,False
+9607,São Paulo,190,4,4,3,23,acept,furnished,1100,7110,589,91,8890,GRANDE,False,False,False,False,True
+1683,São Paulo,300,4,2,0,5,acept,not furnished,6000,15000,834,191,22030,GRANDE,False,False,False,False,True
+5232,São Paulo,41,1,1,0,3,acept,not furnished,350,1760,45,23,2178,PEQUENO,False,True,False,False,False
+7330,São Paulo,110,2,1,1,10,not acept,not furnished,705,1800,0,23,2528,GRANDE,False,True,False,False,False
+6834,São Paulo,137,3,4,2,2,acept,not furnished,1300,2200,334,28,3862,GRANDE,False,False,False,True,False
+540,São Paulo,135,2,3,2,5,not acept,not furnished,2000,12300,542,156,15000,GRANDE,False,False,False,False,True
+648,São Paulo,46,1,1,1,9,acept,not furnished,500,2200,35,28,2763,PEQUENO,False,False,True,False,False
+5989,São Paulo,98,2,2,2,29,acept,not furnished,1450,8500,450,108,10510,MÉDIO,False,False,False,False,True
+6934,São Paulo,323,3,5,6,-,acept,not furnished,0,10000,985,151,11140,GRANDE,False,False,False,False,True
+8523,São Paulo,297,4,4,6,-,acept,not furnished,0,3000,392,46,3438,GRANDE,False,False,True,False,False
+508,São Paulo,40,1,1,1,9,acept,furnished,350,1580,25,21,1976,PEQUENO,False,True,False,False,False
+1996,São Paulo,192,3,3,3,16,acept,furnished,1790,6500,630,83,9003,GRANDE,False,False,False,False,True
+691,São Paulo,53,2,2,1,10,acept,furnished,1940,2400,389,31,4760,MÉDIO,False,False,False,True,False
+9652,São Paulo,50,1,1,0,-,not acept,not furnished,0,1250,34,19,1303,PEQUENO,True,False,False,False,False
+4685,São Paulo,51,1,1,0,9,acept,not furnished,367,1700,84,22,2173,MÉDIO,False,True,False,False,False
+1801,São Paulo,135,3,2,1,4,acept,not furnished,1378,3290,279,42,4989,GRANDE,False,False,False,True,False
+10350,Rio de Janeiro,90,2,2,1,1,acept,furnished,1424,2600,426,34,4484,MÉDIO,False,False,False,True,False
+6892,Rio de Janeiro,75,2,1,1,4,acept,furnished,500,1360,33,18,1911,MÉDIO,False,True,False,False,False
+3563,Rio de Janeiro,122,3,1,0,6,acept,furnished,1000,2000,220,26,3246,GRANDE,False,False,True,False,False
+4851,Rio de Janeiro,55,2,2,1,5,not acept,not furnished,720,850,58,11,1639,MÉDIO,True,False,False,False,False
+4078,Rio de Janeiro,84,2,2,1,2,not acept,furnished,900,2750,275,36,3961,MÉDIO,False,False,False,True,False
+5148,Rio de Janeiro,75,2,1,1,6,not acept,not furnished,379,580,69,8,1036,MÉDIO,True,False,False,False,False
+7834,Rio de Janeiro,52,1,1,0,3,acept,furnished,650,3400,17,44,4111,MÉDIO,False,False,False,True,False
+3363,Rio de Janeiro,55,1,1,1,8,acept,not furnished,400,1100,9,15,1524,MÉDIO,True,False,False,False,False
+898,Rio de Janeiro,70,3,2,1,9,acept,not furnished,1002,850,255,11,2118,MÉDIO,False,True,False,False,False
+280,Rio de Janeiro,48,1,1,0,1,not acept,not furnished,626,1020,53,14,1713,PEQUENO,True,False,False,False,False
+8368,Rio de Janeiro,25,1,1,0,4,acept,furnished,356,1984,55,23,2418,PEQUENO,False,True,False,False,False
+6565,Rio de Janeiro,90,2,2,1,4,acept,not furnished,1660,1039,350,14,3063,MÉDIO,False,False,True,False,False
+7544,Rio de Janeiro,68,2,2,0,1,acept,not furnished,851,1830,92,24,2797,MÉDIO,False,False,True,False,False
+633,Rio de Janeiro,115,2,2,0,13,acept,not furnished,950,4500,2731,58,8239,GRANDE,False,False,False,False,True
+7226,Rio de Janeiro,500,2,5,5,-,not acept,not furnished,0,1810,54,28,1892,GRANDE,False,True,False,False,False
+3002,Rio de Janeiro,45,1,1,1,2,not acept,furnished,50,2000,50,26,2126,PEQUENO,False,True,False,False,False
+8437,Rio de Janeiro,55,1,1,1,1,acept,furnished,2750,2400,635,31,5816,MÉDIO,False,False,False,True,False
+5137,Rio de Janeiro,25,1,1,0,1,acept,not furnished,50,700,0,10,760,PEQUENO,True,False,False,False,False
+5184,Rio de Janeiro,85,2,1,0,-,acept,not furnished,470,2800,217,43,3530,MÉDIO,False,False,True,False,False
+7713,Rio de Janeiro,65,2,1,1,4,acept,not furnished,677,1100,59,15,1851,MÉDIO,False,True,False,False,False
+4366,Rio de Janeiro,117,3,1,1,2,not acept,not furnished,200,3700,103,48,4051,GRANDE,False,False,False,True,False
+2981,Rio de Janeiro,45,1,1,1,5,acept,furnished,1050,2700,196,35,3981,PEQUENO,False,False,False,True,False
+8012,Rio de Janeiro,60,1,1,0,9,acept,not furnished,649,3100,100,40,3889,MÉDIO,False,False,False,True,False
+2904,Rio de Janeiro,70,2,2,1,11,not acept,furnished,2800,6000,835,78,9713,MÉDIO,False,False,False,False,True
+6936,Rio de Janeiro,102,3,2,1,4,acept,not furnished,1600,5000,38,65,6703,GRANDE,False,False,False,True,False
+6072,Rio de Janeiro,84,3,1,0,1,not acept,not furnished,900,3100,209,40,4249,MÉDIO,False,False,False,True,False
+8087,Rio de Janeiro,36,1,1,0,5,acept,not furnished,487,2500,55,33,3075,PEQUENO,False,False,True,False,False
+9043,Rio de Janeiro,71,2,1,1,2,acept,not furnished,950,3140,190,41,4321,MÉDIO,False,False,False,True,False
+6619,Belo Horizonte,27,1,1,0,1,not acept,not furnished,0,1167,334,16,1517,PEQUENO,True,False,False,False,False
+6498,Belo Horizonte,76,2,1,1,2,not acept,not furnished,200,900,0,12,1112,MÉDIO,True,False,False,False,False
+464,Belo Horizonte,45,2,1,0,-,acept,not furnished,0,1350,0,23,1373,PEQUENO,True,False,False,False,False
+2578,Belo Horizonte,55,1,1,0,-,not acept,not furnished,0,1020,21,17,1058,MÉDIO,True,False,False,False,False
+9268,Belo Horizonte,105,3,2,2,4,not acept,not furnished,350,1500,135,20,2005,GRANDE,False,True,False,False,False
+9352,Belo Horizonte,85,3,1,1,1,not acept,not furnished,275,1600,62,22,1959,MÉDIO,False,True,False,False,False
+2946,Belo Horizonte,75,2,1,1,4,acept,not furnished,380,849,71,12,1312,MÉDIO,True,False,False,False,False
+3112,Belo Horizonte,66,2,1,1,1,acept,not furnished,380,500,23,7,910,MÉDIO,True,False,False,False,False
+5223,Belo Horizonte,200,4,3,2,4,acept,not furnished,1164,4000,378,54,5596,GRANDE,False,False,False,True,False
+3679,Belo Horizonte,320,5,4,3,3,acept,not furnished,660,3400,220,46,4326,GRANDE,False,False,False,True,False
+1540,Belo Horizonte,150,4,2,2,8,acept,not furnished,730,4200,396,56,5382,GRANDE,False,False,False,True,False
+571,Belo Horizonte,220,4,3,0,9,acept,furnished,3000,15000,1138,200,19340,GRANDE,False,False,False,False,True
+9347,Belo Horizonte,170,4,3,3,6,acept,not furnished,1800,6000,881,80,8761,GRANDE,False,False,False,False,True
+5744,Belo Horizonte,190,4,4,3,1,not acept,not furnished,1740,6200,501,83,8524,GRANDE,False,False,False,False,True
+2051,Belo Horizonte,55,2,1,1,2,not acept,not furnished,250,1200,67,16,1533,MÉDIO,True,False,False,False,False
+1678,Belo Horizonte,51,2,1,1,2,acept,not furnished,260,700,27,10,997,MÉDIO,True,False,False,False,False
+1467,Belo Horizonte,420,6,4,0,5,acept,not furnished,927,3500,405,47,4879,GRANDE,False,False,False,True,False
+6144,Belo Horizonte,92,3,2,1,1,acept,not furnished,220,1600,0,22,1842,MÉDIO,False,True,False,False,False
+9217,Belo Horizonte,252,3,4,1,1,acept,not furnished,250,2500,165,34,2949,GRANDE,False,False,True,False,False
+943,Belo Horizonte,50,2,1,0,-,acept,not furnished,0,850,30,12,892,PEQUENO,True,False,False,False,False
+10331,Belo Horizonte,70,3,2,1,3,acept,not furnished,240,1400,103,19,1762,MÉDIO,False,True,False,False,False
+1895,Belo Horizonte,42,2,1,1,5,acept,not furnished,170,900,27,12,1109,PEQUENO,True,False,False,False,False
+1992,Belo Horizonte,134,4,2,3,1,not acept,not furnished,650,3000,313,40,4003,GRANDE,False,False,False,True,False
+3309,Porto Alegre,75,2,2,0,9,not acept,not furnished,436,1350,50,20,1856,MÉDIO,False,True,False,False,False
+7996,Porto Alegre,49,1,1,0,1,acept,not furnished,250,790,21,12,1073,PEQUENO,True,False,False,False,False
+2008,Porto Alegre,28,1,1,0,1,acept,furnished,0,1340,4,20,1364,PEQUENO,True,False,False,False,False
+2856,Porto Alegre,121,3,2,1,10,acept,not furnished,800,1900,200,28,2928,GRANDE,False,False,True,False,False
+5301,Porto Alegre,326,3,2,3,-,acept,not furnished,350,3900,2760,70,7080,GRANDE,False,False,False,True,False
+3836,Porto Alegre,60,2,1,1,-,not acept,not furnished,0,950,34,17,1001,MÉDIO,True,False,False,False,False
+9974,Porto Alegre,69,2,2,1,9,acept,not furnished,380,2100,75,31,2586,MÉDIO,False,True,False,False,False
+6779,Porto Alegre,42,1,1,1,2,acept,not furnished,255,2198,0,33,2486,PEQUENO,False,True,False,False,False
+1270,Porto Alegre,70,2,1,0,1,acept,furnished,350,1450,120,22,1942,MÉDIO,False,True,False,False,False
+772,Porto Alegre,55,2,1,1,-,acept,furnished,0,1300,34,24,1358,MÉDIO,True,False,False,False,False
+9409,Porto Alegre,37,1,1,0,4,acept,not furnished,335,1600,67,24,2026,PEQUENO,False,True,False,False,False
+5109,Porto Alegre,70,2,1,0,12,acept,not furnished,500,1105,84,17,1706,MÉDIO,True,False,False,False,False
+2565,Porto Alegre,55,2,1,1,2,acept,not furnished,300,850,30,13,1193,MÉDIO,True,False,False,False,False
+8277,Porto Alegre,37,1,1,0,4,acept,not furnished,338,1600,67,24,2029,PEQUENO,False,True,False,False,False
+1851,Porto Alegre,50,1,1,0,6,acept,not furnished,400,800,20,12,1232,PEQUENO,True,False,False,False,False
+7200,Porto Alegre,124,3,3,1,7,acept,not furnished,970,1942,68,29,3009,GRANDE,False,False,True,False,False
+2916,Porto Alegre,359,3,4,2,3,acept,not furnished,2300,7000,292,103,9695,GRANDE,False,False,False,False,True
+10598,Porto Alegre,60,1,1,0,6,acept,furnished,300,1390,34,21,1745,MÉDIO,True,False,False,False,False
+7895,Porto Alegre,180,3,3,1,12,acept,not furnished,1500,2000,0,30,3530,GRANDE,False,False,True,False,False
+4163,Porto Alegre,125,3,2,4,6,acept,furnished,1000,6500,195,95,7790,GRANDE,False,False,False,True,False
+3296,Porto Alegre,182,3,3,2,-,acept,not furnished,0,3200,112,57,3369,GRANDE,False,False,True,False,False
+1530,Porto Alegre,41,1,2,1,9,acept,not furnished,400,2800,67,41,3308,PEQUENO,False,False,True,False,False
+7233,Campinas,70,1,2,1,11,not acept,furnished,1700,1500,184,20,3404,MÉDIO,False,False,True,False,False
+4596,Campinas,140,3,3,2,8,acept,not furnished,1100,2330,198,30,3658,GRANDE,False,False,True,False,False
+1222,Campinas,650,4,6,4,-,acept,not furnished,760,13000,1042,196,15000,GRANDE,False,False,False,False,True
+3739,Campinas,70,3,1,1,6,acept,not furnished,549,1200,0,16,1765,MÉDIO,False,True,False,False,False
+5547,Campinas,140,4,3,2,14,acept,not furnished,1030,3500,220,45,4795,GRANDE,False,False,False,True,False
+9788,Campinas,188,2,3,8,-,acept,not furnished,0,2930,584,45,3559,GRANDE,False,False,True,False,False
+9858,Campinas,120,4,2,1,-,acept,not furnished,0,1500,0,23,1523,GRANDE,True,False,False,False,False
+3212,Campinas,110,3,2,2,7,not acept,not furnished,900,2100,100,27,3127,GRANDE,False,False,True,False,False
+5234,Campinas,50,1,1,0,11,not acept,not furnished,430,702,20,9,1161,PEQUENO,True,False,False,False,False
+9164,Campinas,75,3,2,1,3,not acept,not furnished,550,2125,67,27,2769,MÉDIO,False,False,True,False,False
+2736,Campinas,150,4,2,0,-,acept,not furnished,0,2500,184,38,2722,GRANDE,False,True,False,False,False
+184,Campinas,78,1,2,1,4,acept,not furnished,0,2290,143,30,2463,MÉDIO,False,True,False,False,False
+9980,Campinas,268,3,4,4,-,acept,not furnished,790,3500,509,53,4852,GRANDE,False,False,False,True,False
+1916,Campinas,30,1,1,0,5,not acept,furnished,380,500,10,7,897,PEQUENO,True,False,False,False,False
+1909,Campinas,130,3,5,2,2,acept,not furnished,1170,3610,209,46,5035,GRANDE,False,False,False,True,False
+9851,Campinas,60,2,1,1,3,acept,not furnished,345,820,16,11,1192,MÉDIO,True,False,False,False,False

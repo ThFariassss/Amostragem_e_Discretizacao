@@ -1,0 +1,101 @@
+id,city,area,rooms,bathroom,parking spaces,floor,animal,furniture,hoa,rent amount,property tax,fire insurance,total
+9674,São Paulo,98,3,5,1,10,acept,not furnished,750,5510,0,70,6330
+9286,São Paulo,74,2,1,1,2,acept,not furnished,650,1700,0,22,2372
+6006,Belo Horizonte,60,2,1,1,2,acept,not furnished,250,1300,30,18,1598
+8873,Belo Horizonte,100,2,1,0,13,acept,not furnished,750,1200,1680,16,3646
+6,Rio de Janeiro,72,2,1,0,7,acept,not furnished,740,1900,85,25,2750
+2721,Rio de Janeiro,65,2,1,1,1,acept,furnished,0,1530,0,20,1550
+6361,São Paulo,118,3,3,2,17,acept,furnished,1000,3890,356,50,5296
+9744,Campinas,67,2,1,0,-,acept,not furnished,0,880,41,14,935
+5777,São Paulo,80,3,2,2,6,acept,not furnished,1219,3650,90,47,5006
+8493,São Paulo,40,1,1,0,-,acept,not furnished,0,850,34,13,897
+8499,Porto Alegre,40,1,1,0,2,not acept,not furnished,282,850,43,13,1188
+10458,São Paulo,75,2,1,1,-,acept,not furnished,0,2450,0,37,2487
+6992,São Paulo,75,2,1,0,5,acept,furnished,500,4000,0,51,4551
+10202,São Paulo,48,2,1,1,3,acept,not furnished,328,1550,54,20,1952
+2571,Campinas,71,2,1,1,3,acept,not furnished,670,1130,114,15,1929
+10276,Porto Alegre,116,4,3,1,3,acept,furnished,450,2700,64,40,3254
+116,São Paulo,73,2,2,1,7,acept,not furnished,1100,3500,100,45,4745
+9150,São Paulo,273,3,5,4,5,acept,not furnished,2695,10900,1057,139,14790
+2171,Porto Alegre,200,3,3,4,2,acept,not furnished,2900,1200,260,18,4378
+581,São Paulo,330,4,2,5,-,acept,not furnished,0,1870,400,29,2299
+7429,São Paulo,100,2,1,0,7,not acept,not furnished,800,1659,0,22,2481
+766,São Paulo,240,3,4,3,9,acept,not furnished,2100,5800,825,74,8799
+10472,Campinas,900,3,6,8,-,acept,not furnished,2000,15000,1834,226,19060
+6208,Campinas,128,3,3,2,1,acept,not furnished,1236,2650,682,34,4602
+4975,Belo Horizonte,300,4,3,3,3,acept,not furnished,1400,7500,469,100,9469
+5412,São Paulo,47,3,1,1,9,acept,not furnished,300,1420,0,18,1738
+5313,São Paulo,68,2,2,2,7,acept,furnished,1500,6600,0,84,8184
+6890,Campinas,45,1,1,1,15,acept,not furnished,653,880,38,12,1583
+4355,São Paulo,320,4,6,4,4,acept,not furnished,5400,15000,175,191,20770
+490,Porto Alegre,360,3,4,3,5,acept,furnished,4000,13200,500,193,17890
+4113,São Paulo,32,1,1,1,8,acept,furnished,450,3250,0,42,3742
+4066,São Paulo,170,3,5,3,7,acept,furnished,1750,2800,600,36,5186
+3797,Rio de Janeiro,113,2,2,1,10,acept,not furnished,1566,8000,501,104,10170
+3700,Porto Alegre,40,1,1,0,9,acept,not furnished,500,850,42,13,1405
+9098,São Paulo,125,3,3,2,4,acept,not furnished,1550,3000,650,39,5239
+9611,São Paulo,53,2,1,1,5,acept,not furnished,690,950,12,13,1665
+5227,Porto Alegre,140,3,2,2,3,acept,furnished,1300,3200,167,47,4714
+6411,São Paulo,140,3,3,2,3,acept,not furnished,2350,4905,59,63,7377
+3055,São Paulo,249,3,3,3,-,acept,not furnished,0,9000,834,136,9970
+1352,Rio de Janeiro,300,4,2,0,-,acept,not furnished,219,6500,280,99,7098
+6279,Rio de Janeiro,60,1,1,0,5,acept,not furnished,500,750,100,10,1360
+4128,Rio de Janeiro,53,1,1,0,2,acept,not furnished,390,1100,14,14,1518
+3746,São Paulo,300,4,4,4,4,not acept,not furnished,4000,1400,834,18,6252
+2997,São Paulo,45,2,1,0,2,acept,not furnished,60,900,42,12,1014
+294,São Paulo,80,2,1,0,1,not acept,not furnished,0,1100,0,14,1114
+7720,São Paulo,400,3,4,4,-,acept,furnished,0,15000,0,226,15230
+10133,São Paulo,66,2,1,1,5,not acept,not furnished,550,2000,30,26,2606
+42,Belo Horizonte,200,4,2,1,7,not acept,not furnished,850,2550,9,34,3443
+3646,Belo Horizonte,180,5,5,4,-,acept,not furnished,0,4500,270,74,4844
+5144,São Paulo,250,5,4,5,6,acept,not furnished,2300,2800,800,36,5936
+2822,São Paulo,248,3,4,3,10,acept,not furnished,2200,6000,742,77,9019
+6192,São Paulo,40,1,1,0,-,not acept,not furnished,0,2040,70,31,2141
+1132,São Paulo,55,1,1,1,10,acept,furnished,920,3190,309,41,4460
+10164,Rio de Janeiro,15,1,1,0,4,not acept,not furnished,0,908,0,12,920
+1666,Rio de Janeiro,65,2,1,1,3,acept,furnished,550,1650,0,22,2222
+592,Belo Horizonte,450,2,2,5,-,acept,not furnished,0,1512,71,25,1608
+386,São Paulo,80,2,2,5,-,acept,not furnished,0,3000,59,46,3105
+7567,São Paulo,70,3,2,1,3,acept,not furnished,1087,3700,38,47,4872
+6359,São Paulo,50,2,1,0,1,acept,not furnished,54,2000,42,26,2122
+9097,Campinas,230,3,4,4,5,acept,furnished,1800,10000,715,127,12640
+9680,São Paulo,230,4,6,4,12,acept,not furnished,2850,3000,2658,39,8547
+7142,Porto Alegre,320,4,4,2,13,acept,furnished,1500,4500,2900,66,8966
+426,São Paulo,37,1,1,0,3,not acept,furnished,470,3500,127,45,4142
+645,Rio de Janeiro,40,1,1,0,-,acept,not furnished,0,1200,20,19,1239
+9034,Rio de Janeiro,90,2,3,0,2,acept,not furnished,620,2150,60,28,2858
+5183,Rio de Janeiro,50,2,1,1,11,acept,not furnished,830,1650,0,22,2502
+2471,São Paulo,77,1,1,1,8,not acept,not furnished,0,5700,0,73,5773
+6555,São Paulo,40,1,1,0,12,not acept,furnished,370,3300,74,42,3786
+59,São Paulo,194,3,4,3,-,acept,not furnished,0,4000,70,61,4131
+4862,São Paulo,61,2,2,1,1,acept,not furnished,885,2000,130,26,3041
+9904,São Paulo,130,2,1,1,1,acept,not furnished,0,2200,180,28,2408
+9340,Rio de Janeiro,90,2,2,0,4,acept,not furnished,735,1000,97,13,1845
+4029,São Paulo,50,1,1,0,2,not acept,furnished,710,3100,85,12,3907
+8973,Belo Horizonte,40,1,1,2,11,not acept,furnished,1000,3500,63,47,4610
+4150,São Paulo,76,2,1,0,2,acept,not furnished,500,2290,0,30,2820
+9539,Porto Alegre,336,3,4,3,-,acept,not furnished,2000,12500,500,183,15180
+7749,São Paulo,125,3,2,0,2,not acept,not furnished,1551,2700,495,35,4781
+360,São Paulo,75,2,2,2,7,not acept,furnished,1600,6600,400,84,8684
+8806,Rio de Janeiro,55,1,2,1,15,acept,furnished,695,2750,50,36,3531
+4902,São Paulo,288,3,3,3,8,acept,not furnished,3032,3325,1295,43,7695
+56,São Paulo,280,3,1,2,-,acept,not furnished,0,6000,113,91,6204
+9031,São Paulo,100,3,3,2,-,not acept,not furnished,120,2000,0,31,2151
+10573,São Paulo,130,3,4,2,8,acept,furnished,1300,5500,0,70,6870
+3380,São Paulo,288,4,5,4,8,acept,not furnished,3635,5025,1155,64,9879
+7934,São Paulo,70,2,2,1,2,acept,not furnished,665,2000,0,26,2691
+3217,Rio de Janeiro,118,2,2,1,6,acept,not furnished,1600,3950,271,51,5872
+82,Porto Alegre,100,4,3,1,8,acept,not furnished,600,2200,159,33,2992
+3460,Campinas,100,3,2,0,2,not acept,not furnished,815,808,81,11,1715
+2679,São Paulo,62,2,2,1,1,not acept,not furnished,0,2350,0,30,2380
+4927,São Paulo,34,1,1,1,2,not acept,not furnished,490,1750,77,23,2340
+3152,Belo Horizonte,400,3,3,0,-,acept,not furnished,0,3500,142,58,3700
+6409,São Paulo,90,2,2,1,7,acept,furnished,760,5500,142,70,6472
+1992,Belo Horizonte,134,4,2,3,1,not acept,not furnished,650,3000,313,40,4003
+3826,Rio de Janeiro,98,2,2,1,7,not acept,furnished,1600,3500,225,46,5371
+5683,Rio de Janeiro,36,1,1,0,6,acept,not furnished,700,590,244,8,1542
+9172,Porto Alegre,25,1,1,0,12,not acept,not furnished,240,750,22,11,1023
+5482,Campinas,138,3,3,0,2,acept,not furnished,1000,7000,84,89,8173
+10378,Rio de Janeiro,110,2,3,1,1,not acept,not furnished,900,4600,92,60,5652
+5179,Belo Horizonte,209,4,4,4,11,acept,not furnished,2140,7300,587,98,10130
+3241,Belo Horizonte,106,3,2,2,7,not acept,not furnished,1294,2200,239,30,3763
