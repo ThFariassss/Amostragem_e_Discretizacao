@@ -1,5 +1,6 @@
 Alunos
 Thiago Farias dos Santos
+
 Gustavo Henrique da Silva
 
 Este projeto apresenta a aplicação de técnicas de Amostragem em Estatística, utilizando um conjunto de dados de imóveis para aluguel.
